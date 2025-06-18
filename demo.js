@@ -1,3 +1,3 @@
 console.log("Welcome to github class")
 
-console.log("HOW are you doing")
+console.log("HOW are you")
